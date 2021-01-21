@@ -1,0 +1,6 @@
+.bgr{
+  background-image: url('images/bgr.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
